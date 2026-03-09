@@ -136,16 +136,6 @@ Você pode executar o app em:
 
 ------------------------------------------------------------------------
 
-# 💡 Possíveis melhorias futuras
-
--   Animações de batalha
--   Barra de energia estilo Pokémon
--   Efeitos sonoros
--   Modo multiplayer
--   Sistema de ranking
-
-------------------------------------------------------------------------
-
 # 👨‍💻 Autor
 
 Projeto desenvolvido para fins de aprendizado em **Flutter e
