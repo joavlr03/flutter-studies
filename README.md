@@ -21,11 +21,11 @@ Aplicação desenvolvida em **Flutter** para consultar endereços brasileiros ut
 
 
 
-```
+
 <img width="504" height="693" alt="Captura de tela 2026-08-06 212032" src="https://github.com/user-attachments/assets/3f839866-2b23-4264-8df5-d05c593edfa6" />
 
 <img width="496" height="696" alt="Captura de tela 2026-08-06 212023" src="https://github.com/user-attachments/assets/ddaba7ba-4d33-4d86-9e8f-ee97bf86871b" />
-```
+
 
 
 
