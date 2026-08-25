@@ -158,6 +158,7 @@ import 'theme/app_theme.dart';
  Adicionar tela de resultados
  Integrar com uma API de Pokémon
  Adicionar persistência dos recordes
+ 
 🤝 Contribuição
 
 Contribuições são bem-vindas!
@@ -179,7 +180,12 @@ git push origin minha-feature
 Abra um Pull Request.
 📄 Licença
 
-Este projeto pode ser distribuído sob a licença definida pelo autor do repositório.
+Telas
 
-Pokémon e suas respectivas marcas, personagens e imagens pertencem aos seus respectivos detentores de direitos. Este projeto é destinado a fins educacionais e de desenvolvimento de software.
+<img width="963" height="751" alt="Captura de tela 2026-08-25 152516" src="https://github.com/user-attachments/assets/2a4ffe89-f2b7-4890-8241-9d2ee57611be" />
+
+<img width="963" height="800" alt="Captura de tela 2026-08-25 152530" src="https://github.com/user-attachments/assets/d59d1ffc-774c-4428-b1a9-a30e07f69d2e" />
+
+<img width="957" height="751" alt="Captura de tela 2026-08-25 152632" src="https://github.com/user-attachments/assets/75f40cd5-0126-4585-b5b7-391cbcf328da" />
+
 
